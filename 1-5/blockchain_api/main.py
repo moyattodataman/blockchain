@@ -28,5 +28,5 @@ def post_transaction_pool(transaction :Transaction):
 
 @app.get("/create_block")
 def create_block():
-    # ブロック生成処理
+    # ブロック生成処理; Block generation process
     pass
