@@ -14,10 +14,8 @@ def get_chain():
 
 @app.post("/transaction_pool")
 def post_transaction_pool():
-    # トランザクションプールにトランザクションを追加する処理; Process of adding a transaction to the transaction pool
     pass
 
 @app.get("/create_block")
 def create_block():
-    # ブロック生成処理; Block generation process
     pass
