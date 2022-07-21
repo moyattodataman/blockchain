@@ -10,7 +10,7 @@ def main():
         "sender": "C-san",
         "receiver": "D-san",
         "amount": 222,
-        "description": "Project YYY Expences",
+        "description": "YYY Project Expenses",
         "signature": "signature_sample"
     }
 
