@@ -26,6 +26,6 @@ https://opensource.org/licenses/mit-license.php
 
 [Blockchain Development Beginner's Guide](https://www.amazon.com/dp/B0B7BLLDWQ)
 
-[![Image from Gyazo](https://i.gyazo.com/7cc52e7098c12e023f47bbf1a1e8173f.png)](https://gyazo.com/7cc52e7098c12e023f47bbf1a1e8173f)
+[![Image from Gyazo](https://i.gyazo.com/59308c515e6ad0bd98d4ea606310cd9d.png)](https://gyazo.com/59308c515e6ad0bd98d4ea606310cd9d)
 
 
